@@ -6,10 +6,4 @@ var euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ↓ ******///
 
-var yenToDollar = function(yenValue){
-	return yenValue * 137;
-}
-console.log(multi())
-
-var returnValue = multi(7,53812212);
-  console.log(returnValue);
+var yenToDollar = function(yenValue);
